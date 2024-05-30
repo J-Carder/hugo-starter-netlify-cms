@@ -1,6 +1,6 @@
 ---
 title: fdasdfs
-date: 2024-05-30T03:50:24.434Z
+date: 05-29-2024 20:58 -0700
 image: p1050567.jpg
 ---
 f﻿dsafdsaf
