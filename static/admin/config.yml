@@ -13,7 +13,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "MM-DD-YYYY", format: "MM-DD-YYYYTHH:mm:ss ZZ", picker_utc: false}
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "MM-DD-YYYY", format: "MM-DD-YYYYTHH:mm:ssZZ", picker_utc: false}
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
